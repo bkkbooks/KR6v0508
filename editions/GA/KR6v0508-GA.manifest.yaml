@@ -1,0 +1,34 @@
+canonical_identifier: bkk:krp/KR6v0508/GA/v1
+canonical_location: https://kanripo.org/bkk/KR6v0508/GA/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 天童寺志
+  identifiers:
+    krp: KR6v0508
+    cbeta: GA013n0012
+    cbeta_old_id: GA013n0012
+    authorityid: CA0008106
+    json_key: GA0012
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/GA/GA013/GA013n0012.xml
+    old_id: GA013n0012
+  edition:
+    short: GA
+assets:
+  parts:
+  - {seq: 0, filename: KR6v0508_000-GA.yaml, hash: 'sha256:91750fbee7f5c1d514ae0e8c65a48a6294d19aa0241ec6b21280eab46f76a096'}
+  - {seq: 1, filename: KR6v0508_001-GA.yaml, hash: 'sha256:26fd5c0225abc0c2b23552f2464077fc5427d2e007997d03e9d6b1e921ab37db'}
+  - {seq: 2, filename: KR6v0508_002-GA.yaml, hash: 'sha256:5e919a363a9376cfe920da551ed81622fa473c98364ff7d2fd32b4827a451bcd'}
+  - {seq: 3, filename: KR6v0508_003-GA.yaml, hash: 'sha256:8c39e6fa69cbcd0ad08dfe47bedf4796e902a565887a5ea4c596f9ed6e1528e3'}
+  - {seq: 4, filename: KR6v0508_004-GA.yaml, hash: 'sha256:57075f34735acbe5becb929fae799b27350eb9a19e7d515b45f612bf2d70396a'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6v0508_000-GA.markers.yaml, hash: 'sha256:7afa5506990744e4cf949d1955eedd762aced3cb6fa0d38d153843f2c997db8d'}
+  - {seq: 1, role: markers, filename: assets/KR6v0508_001-GA.markers.yaml, hash: 'sha256:8a86a78d208224b574e1d6de949d68420cf615934bd3831c442851552c6a7146'}
+  - {seq: 2, role: markers, filename: assets/KR6v0508_002-GA.markers.yaml, hash: 'sha256:1c1e58aa3f799a8f1d00fd2fbbe209dbfab349a0a23ad4991c1110e365d3fb3a'}
+  - {seq: 3, role: markers, filename: assets/KR6v0508_003-GA.markers.yaml, hash: 'sha256:de2cb19e845f269d7105bd8251d71f2827d84c3cd31a8bd7514a3c7ce60b6575'}
+  - {seq: 4, role: markers, filename: assets/KR6v0508_004-GA.markers.yaml, hash: 'sha256:de69cd61a33cb3bc59c4df2e7f74f004b4e1bdb4de19658ad28de52ac19fa860'}
+table_of_contents: []
+hash: sha256:627fa3521f64bb98a4e71ede14dd1631e6d36a05c13c1a3ca2944925d238772f

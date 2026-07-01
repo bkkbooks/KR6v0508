@@ -1,0 +1,36 @@
+canonical_identifier: bkk:krp/KR6v0508/v1
+canonical_location: https://kanripo.org/bkk/KR6v0508/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 天童寺志
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/GA/GA013/GA013n0012.xml
+    old_id: GA013n0012
+  edition:
+    short: bkk
+editions:
+- short: 志彙
+  label: 志彙
+  source_xml_id: wit.orig
+- short: GA
+assets:
+  parts:
+  - {seq: 0, filename: KR6v0508_000.yaml, hash: 'sha256:7ccaac8c8c927bfdef61916580da4ea9df0c1db3b4b63e98e7a8661fa8661528'}
+  - {seq: 1, filename: KR6v0508_001.yaml, hash: 'sha256:de04ef0377a3b110324fb40c701d0713ffec213f47eebd3f0c870c21254030cb'}
+  - {seq: 2, filename: KR6v0508_002.yaml, hash: 'sha256:1dae751d38bd2b3d2cbe558d6c915ae8ac6f5581965a0472308a6e87ed601ce0'}
+  - {seq: 3, filename: KR6v0508_003.yaml, hash: 'sha256:187c6e02a7793cb73d73df710e0be93523be4103f58a97e0411d7a56ef5a7e18'}
+  - {seq: 4, filename: KR6v0508_004.yaml, hash: 'sha256:75529343805495984d37bf91fac79d581ccda3a62db1ba2653b5dbb76f247f9b'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6v0508_000.markers.yaml, hash: 'sha256:bb7b89ca80e05aee74f3f41b87b938954463b0f5c347a620fdb5177e9a11392d'}
+  - {seq: 1, role: markers, filename: assets/KR6v0508_001.markers.yaml, hash: 'sha256:40ebcb4f92b8b70ad295232ce6a4cc41db8124368326941959f6d8aa04822d5a'}
+  - {seq: 2, role: markers, filename: assets/KR6v0508_002.markers.yaml, hash: 'sha256:93e1ed4905e31221794c7faca382b067ada9cadf9bbe997adb96e3c0b1adf30e'}
+  - {seq: 3, role: markers, filename: assets/KR6v0508_003.markers.yaml, hash: 'sha256:45f1a5f51c7836a2f8f8f5b7d00a0d182f2edb85a7289d9bdac7054d143dbaaa'}
+  - {seq: 4, role: markers, filename: assets/KR6v0508_004.markers.yaml, hash: 'sha256:e9010aa64a88bfc129228e3844376df92da0daf8d67f102f219f0433e719b273'}
+table_of_contents: []
+hash: sha256:dd0df4136c29043c670bc2f3b4ca175588d49ba5ef409be6342b9c82d6a1c107
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
