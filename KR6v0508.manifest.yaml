@@ -18,19 +18,19 @@ editions:
 - short: GA
 assets:
   parts:
-  - {seq: 0, filename: KR6v0508_000.yaml, hash: 'sha256:86232b931d31187265f29b41435bc9b0c4274473916b4ad44d3e253c8d87abb9'}
+  - {seq: 0, filename: KR6v0508_000.yaml, hash: 'sha256:686530bfd1104f10028ee63b2aa3734e0674d46229614f5ac91e5ef02318efb9'}
   - {seq: 1, filename: KR6v0508_001.yaml, hash: 'sha256:0056a30dd8fd59fb6bfa072d1e39be14ae9c68e3a48fe9606e4aa10a8f4de85d'}
   - {seq: 2, filename: KR6v0508_002.yaml, hash: 'sha256:05a909e7c68036d2ed25d1e33263fe7383d4ece44b93e238d19b8d9a75b2bbe9'}
   - {seq: 3, filename: KR6v0508_003.yaml, hash: 'sha256:3e65077110e2f682a3ead0de85425e13d0112d1c822881325020f1a93432f5d3'}
   - {seq: 4, filename: KR6v0508_004.yaml, hash: 'sha256:47371e6f045c8c2e590f45eae325e4d4679f32d8cb09c1d36a7d4e5452a88cc1'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6v0508_000.markers.yaml, hash: 'sha256:cd2276ece37f9a740bf49d651f2c5b8831b6c0694994fc9545c96d1d2bf02e23'}
+  - {seq: 0, role: markers, filename: assets/KR6v0508_000.markers.yaml, hash: 'sha256:fd1a5e8e4634f9cd6b427a0d79cea369f669a30f3bdc33b9cae97deb6a519185'}
   - {seq: 1, role: markers, filename: assets/KR6v0508_001.markers.yaml, hash: 'sha256:833e93236fc501a01f3489b3e94d87fce3889c06e038ed0a03914efc847202d7'}
   - {seq: 2, role: markers, filename: assets/KR6v0508_002.markers.yaml, hash: 'sha256:f94bfe94f30aca3e57df9d38a31276f8b1f1dbb28876a36b809e3bcdb2c6f68c'}
   - {seq: 3, role: markers, filename: assets/KR6v0508_003.markers.yaml, hash: 'sha256:30b33f5398dce2c23d6acc78c789914c25a8c02a2299dfcfd1cd7f8f630b2b92'}
   - {seq: 4, role: markers, filename: assets/KR6v0508_004.markers.yaml, hash: 'sha256:b5cc1524a378fe190e7421b01f8d1e8dc7db6e32b1e985b29e05f0eda2cdfd9b'}
 table_of_contents: []
-hash: sha256:1be104f38c8d24b4fd9fe35cd40d90ba64ffa74fd00e18c43268359b0304206b
+hash: sha256:ff402bac12a98bca5980fac50d5e4268b1385fc60290739cd2945b8a36d71c99
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
